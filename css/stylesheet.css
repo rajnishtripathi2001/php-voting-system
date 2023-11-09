@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+    background-color: #b8e994;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+/* for Index.php */
+
+#headerSection h1{
+    font-family: cursive;
+}
+
+input{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #b2bec3;
+    margin: 10px;
+    border: 2px solid #323435;
+}
+
+#role-drop{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #b2bec3;
+    margin: 10px;
+    width: 17.8%;
+    border: 2px solid #323435;
+}
+
+#loginbtn{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #323435;
+    margin: 10px;
+    width: 10%;
+    background-color: #1964a1;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* For Registeration.php */
+
+#address{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #b2bec3;
+    margin: 10px;
+    width: 36%;
+    border: 2px solid #323435;
+}
+
+#fileUP{
+    border: none;
+}
+
+#role-drop2{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #b2bec3;
+    margin: 10px;
+    width: 27%;
+}
+
+/* for dashboard.php */
+
